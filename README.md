@@ -1,6 +1,6 @@
 # 🎓 OLAMS – Online Learning And Management System
 
-Welcome to **OLAMS**, a simple C++ console-based student learning management system. This tool simulates core LMS functionality like creating accounts, managing course credits, enrolling in classes, and viewing account details — perfect for practice or simple demos.
+Welcome to **OLAMS**, a simple C++ console-based student learning management system. This tool simulates core LMS functionality like creating accounts, managing course credits, enrolling in classes, and viewing account details within the console — perfect for practice or simple demos.
 
 ---
 
@@ -86,7 +86,7 @@ Remaining credits: 2
 ```
 
 
-🛠️ Configuration Notes
+## 🛠️ Configuration Notes
 No file input/output needed — all user data is stored in memory during program execution.
 
 All menus are interactive via standard input (std::cin / std::cout).
